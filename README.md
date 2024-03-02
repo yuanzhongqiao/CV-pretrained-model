@@ -106,539 +106,539 @@
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/yunjey/show-attend-and-tell"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">展示、出席和讲述</font></font></a></td>
-<td align="center">Attention Based Image Caption Generator.</td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基于注意力的图像标题生成器。</font></font></td>
 <td align="center"><code>Tensorflow</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/yunjey/show-attend-and-tell/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/yunjey/show-attend-and-tell/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/natanielruiz/android-yolo">android-yolo</a></td>
-<td align="center">Real-time object detection on Android using the YOLO network, powered by TensorFlow.</td>
+<td align="center"><a href="https://github.com/natanielruiz/android-yolo"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">android-yolo</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用由 TensorFlow 提供支持的 YOLO 网络在 Android 上进行实时对象检测。</font></font></td>
 <td align="center"><code>Tensorflow</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/natanielruiz/android-yolo/master/LICENSE" rel="nofollow">Apache License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/natanielruiz/android-yolo/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/jiny2001/dcscn-super-resolutiont">DCSCN Super Resolution</a></td>
-<td align="center">This is a tensorflow implementation of "Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network", a deep learning based Single-Image Super-Resolution (SISR) model.</td>
+<td align="center"><a href="https://github.com/jiny2001/dcscn-super-resolutiont"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DCSCN超分辨率</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是“使用 Skip Connection 和 Network in Network 的 Deep CNN 实现快速准确的图像超分辨率”的张量流实现，这是一种基于深度学习的单图像超分辨率 (SISR) 模型。</font></font></td>
 <td align="center"><code>Tensorflow</code></td>
-<td align="center">Not Found</td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">未找到</font></font></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/zsdonghao/text-to-image">GAN-CLS</a></td>
-<td align="center">This is an experimental tensorflow implementation of synthesizing images.</td>
+<td align="center"><a href="https://github.com/zsdonghao/text-to-image"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">甘肃CLS</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是合成图像的实验性张量流实现。</font></font></td>
 <td align="center"><code>Tensorflow</code></td>
-<td align="center">Not Found</td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">未找到</font></font></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/zsdonghao/u-net-brain-tumor">U-Net</a></td>
-<td align="center">For Brain Tumor Segmentation.</td>
+<td align="center"><a href="https://github.com/zsdonghao/u-net-brain-tumor"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">优网</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于脑肿瘤分割。</font></font></td>
 <td align="center"><code>Tensorflow</code></td>
-<td align="center">Not Found</td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">未找到</font></font></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/luoxier/CycleGAN_Tensorlayer">Improved CycleGAN</a></td>
-<td align="center">Unpaired Image to Image Translation.</td>
+<td align="center"><a href="https://github.com/luoxier/CycleGAN_Tensorlayer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">改进的 CycleGAN</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">未配对的图像到图像翻译。</font></font></td>
 <td align="center"><code>Tensorflow</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/luoxier/CycleGAN_Tensorlayer/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/luoxier/CycleGAN_Tensorlayer/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/tensorflow/models/tree/master/research/im2txt">Im2txt</a></td>
-<td align="center">Image-to-text neural network for image captioning.</td>
+<td align="center"><a href="https://github.com/tensorflow/models/tree/master/research/im2txt"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Im2txt</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于图像字幕的图像到文本神经网络。</font></font></td>
 <td align="center"><code>Tensorflow</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/tensorflow/models/master/LICENSE" rel="nofollow">Apache License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/tensorflow/models/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/tensorflow/models/tree/master/research/slim">SLIM</a></td>
-<td align="center">Image classification models in TF-Slim.</td>
+<td align="center"><a href="https://github.com/tensorflow/models/tree/master/research/slim"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">苗条的</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TF-Slim 中的图像分类模型。</font></font></td>
 <td align="center"><code>Tensorflow</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/tensorflow/models/master/LICENSE" rel="nofollow">Apache License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/tensorflow/models/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/tensorflow/models/tree/master/research/delf">DELF</a></td>
-<td align="center">Deep local features for image matching and retrieval.</td>
+<td align="center"><a href="https://github.com/tensorflow/models/tree/master/research/delf"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">德福考试</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于图像匹配和检索的深层局部特征。</font></font></td>
 <td align="center"><code>Tensorflow</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/tensorflow/models/master/LICENSE" rel="nofollow">Apache License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/tensorflow/models/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/tensorflow/models/tree/master/research/compression">Compression</a></td>
-<td align="center">Compressing and decompressing images using a pre-trained Residual GRU network.</td>
+<td align="center"><a href="https://github.com/tensorflow/models/tree/master/research/compression"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">压缩</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用预先训练的残差 GRU 网络压缩和解压缩图像。</font></font></td>
 <td align="center"><code>Tensorflow</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/tensorflow/models/master/LICENSE" rel="nofollow">Apache License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/tensorflow/models/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/tensorflow/models/tree/master/research/attention_ocr">AttentionOCR</a></td>
-<td align="center">A model for real-world image text extraction.</td>
+<td align="center"><a href="https://github.com/tensorflow/models/tree/master/research/attention_ocr"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注意力OCR</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现实世界图像文本提取的模型。</font></font></td>
 <td align="center"><code>Tensorflow</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/tensorflow/models/master/LICENSE" rel="nofollow">Apache License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/tensorflow/models/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇许可证</font></font></a></td>
 </tr>
 </tbody>
 </table>
 <div align="right" dir="auto">
-    <b></b><b><a href="#framework">↥ Back To Top</a></b>
+    <b></b><b><a href="#framework"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">↥ 返回顶部</font></font></a></b>
 </div>
 <hr>
-<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Keras <a name="user-content-keras"></a></h3><a id="user-content-keras-" class="anchor-element" aria-label="永久链接：Keras" href="#keras-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">喀拉斯</font></font><a name="user-content-keras"></a></h3><a id="user-content-keras-" class="anchor-element" aria-label="永久链接：Keras" href="#keras-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <table>
 <thead>
 <tr>
-<th align="center">Model Name</th>
-<th align="center">Description</th>
-<th align="center">Framework</th>
-<th align="center">License</th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">型号名称</font></font></th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">描述</font></font></th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">框架</font></font></th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><a href="https://github.com/matterport/Mask_RCNN">Mask R-CNN</a></td>
-<td align="center">The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.</td>
+<td align="center"><a href="https://github.com/matterport/Mask_RCNN"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mask R-CNN</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该模型为图像中对象的每个实例生成边界框和分割掩模。</font><font style="vertical-align: inherit;">它基于特征金字塔网络 (FPN) 和 ResNet101 主干网。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/matterport/Mask_RCNN/master/LICENSE" rel="nofollow">The MIT License (MIT)</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/matterport/Mask_RCNN/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证 (MIT)</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg16.py">VGG16</a></td>
-<td align="center">Very Deep Convolutional Networks for Large-Scale Image Recognition.</td>
+<td align="center"><a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg16.py"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VGG16</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于大规模图像识别的超深卷积网络。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/keras-team/keras-applications/master/LICENSE" rel="nofollow">The MIT License (MIT)</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/keras-team/keras-applications/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证 (MIT)</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg19.py">VGG19</a></td>
-<td align="center">Very Deep Convolutional Networks for Large-Scale Image Recognition.</td>
+<td align="center"><a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg19.py"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VGG19</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于大规模图像识别的超深卷积网络。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/keras-team/keras-applications/master/LICENSE" rel="nofollow">The MIT License (MIT)</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/keras-team/keras-applications/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证 (MIT)</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet_common.py">ResNet</a></td>
-<td align="center">Deep Residual Learning for Image Recognition.</td>
+<td align="center"><a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet_common.py"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">残差网络</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于图像识别的深度残差学习。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/keras-team/keras-applications/master/LICENSE" rel="nofollow">The MIT License (MIT)</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/keras-team/keras-applications/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证 (MIT)</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet50.py">ResNet50</a></td>
-<td align="center">Deep Residual Learning for Image Recognition.</td>
+<td align="center"><a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet50.py"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">残网50</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于图像识别的深度残差学习。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/keras-team/keras-applications/master/LICENSE" rel="nofollow">The MIT License (MIT)</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/keras-team/keras-applications/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证 (MIT)</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/nasnet.py">Nasnet</a></td>
-<td align="center">NASNet refers to Neural Architecture Search Network, a family of models that were designed automatically by learning the model architectures directly on the dataset of interest.</td>
+<td align="center"><a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/nasnet.py"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">纳斯内特</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NASNet 指的是神经架构搜索网络，是通过直接在感兴趣的数据集上学习模型架构来自动设计的一系列模型。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/keras-team/keras-applications/master/LICENSE" rel="nofollow">The MIT License (MIT)</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/keras-team/keras-applications/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证 (MIT)</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/mobilenet.py">MobileNet</a></td>
-<td align="center">MobileNet v1 models for Keras.</td>
+<td align="center"><a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/mobilenet.py"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动网络</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Keras 的 MobileNet v1 模型。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/keras-team/keras-applications/master/LICENSE" rel="nofollow">The MIT License (MIT)</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/keras-team/keras-applications/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证 (MIT)</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/mobilenet_v2.py">MobileNet V2</a></td>
-<td align="center">MobileNet v2 models for Keras.</td>
+<td align="center"><a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/mobilenet_v2.py"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动网V2</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">适用于 Keras 的 MobileNet v2 模型。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/keras-team/keras-applications/master/LICENSE" rel="nofollow">The MIT License (MIT)</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/keras-team/keras-applications/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证 (MIT)</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/mobilenet_v3.py">MobileNet V3</a></td>
-<td align="center">MobileNet v3 models for Keras.</td>
+<td align="center"><a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/mobilenet_v3.py"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动网V3</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">适用于 Keras 的 MobileNet v3 模型。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/keras-team/keras-applications/master/LICENSE" rel="nofollow">The MIT License (MIT)</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/keras-team/keras-applications/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证 (MIT)</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/efficientnet.py">efficientnet</a></td>
-<td align="center">Rethinking Model Scaling for Convolutional Neural Networks.</td>
+<td align="center"><a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/efficientnet.py"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高效网</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">重新思考卷积神经网络的模型缩放。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/keras-team/keras-applications/master/LICENSE" rel="nofollow">The MIT License (MIT)</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/keras-team/keras-applications/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证 (MIT)</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/awentzonline/image-analogies">Image analogies</a></td>
-<td align="center">Generate image analogies using neural matching and blending.</td>
+<td align="center"><a href="https://github.com/awentzonline/image-analogies"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图像类比</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用神经匹配和混合生成图像类比。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/awentzonline/image-analogies/master/LICENSE.txt" rel="nofollow">The MIT License (MIT)</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/awentzonline/image-analogies/master/LICENSE.txt" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证 (MIT)</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/divamgupta/image-segmentation-keras">Popular Image Segmentation Models</a></td>
-<td align="center">Implementation of Segnet, FCN, UNet and other models in Keras.</td>
+<td align="center"><a href="https://github.com/divamgupta/image-segmentation-keras"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">流行的图像分割模型</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Segnet、FCN、UNet等模型在Keras中的实现。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/divamgupta/image-segmentation-keras/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/divamgupta/image-segmentation-keras/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/jocicmarko/ultrasound-nerve-segmentation">Ultrasound nerve segmentation</a></td>
-<td align="center">This tutorial shows how to use Keras library to build deep neural network for ultrasound image nerve segmentation.</td>
+<td align="center"><a href="https://github.com/jocicmarko/ultrasound-nerve-segmentation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">超声神经分割</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本教程展示如何使用 Keras 库构建用于超声图像神经分割的深度神经网络。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/jocicmarko/ultrasound-nerve-segmentation/master/LICENSE.md" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/jocicmarko/ultrasound-nerve-segmentation/master/LICENSE.md" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/abbypa/NNProject_DeepMask">DeepMask object segmentation</a></td>
-<td align="center">This is a Keras-based Python implementation of DeepMask- a complex deep neural network for learning object segmentation masks.</td>
+<td align="center"><a href="https://github.com/abbypa/NNProject_DeepMask"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DeepMask 对象分割</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是 DeepMask 的基于 Keras 的 Python 实现，DeepMask 是一个用于学习对象分割掩模的复杂深度神经网络。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center">Not Found</td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">未找到</font></font></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/elliottd/GroundedTranslation">Monolingual and Multilingual Image Captioning</a></td>
-<td align="center">This is the source code that accompanies Multilingual Image Description with Neural Sequence Models.</td>
+<td align="center"><a href="https://github.com/elliottd/GroundedTranslation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">单语和多语图像字幕</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是带有神经序列模型的多语言图像描述附带的源代码。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/elliottd/GroundedTranslation/master/LICENSE" rel="nofollow">BSD-3-Clause License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/elliottd/GroundedTranslation/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BSD-3 条款许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/pix2pix">pix2pix</a></td>
-<td align="center">Keras implementation of Image-to-Image Translation with Conditional Adversarial Networks by Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A.</td>
+<td align="center"><a href="https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/pix2pix"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">像素到像素</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Keras 使用条件对抗网络实现图像到图像转换，作者：Phillip Isola、Jun-Yan Zhu、Tinghui Zhou、Alexei A.</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center">Not Found</td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">未找到</font></font></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/Colorful">Colorful Image colorization</a></td>
-<td align="center">B&amp;W to color.</td>
+<td align="center"><a href="https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/Colorful"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">彩色图像着色</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">黑白到彩色。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center">Not Found</td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">未找到</font></font></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/eriklindernoren/Keras-GAN/blob/master/cyclegan/cyclegan.py">CycleGAN</a></td>
-<td align="center">Implementation of <em>Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks</em>.</td>
+<td align="center"><a href="https://github.com/eriklindernoren/Keras-GAN/blob/master/cyclegan/cyclegan.py"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">循环GAN</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用循环一致对抗网络实现</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不成对的图像到图像转换</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/eriklindernoren/Keras-GAN/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/eriklindernoren/Keras-GAN/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/eriklindernoren/Keras-GAN/blob/master/dualgan/dualgan.py">DualGAN</a></td>
-<td align="center">Implementation of <em>DualGAN: Unsupervised Dual Learning for Image-to-Image Translation</em>.</td>
+<td align="center"><a href="https://github.com/eriklindernoren/Keras-GAN/blob/master/dualgan/dualgan.py"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">双GAN</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DualGAN的实现</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：图像到图像翻译的无监督双重学习</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/eriklindernoren/Keras-GAN/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/eriklindernoren/Keras-GAN/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/eriklindernoren/Keras-GAN/blob/master/srgan/srgan.py">Super-Resolution GAN</a></td>
-<td align="center">Implementation of <em>Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network</em>.</td>
+<td align="center"><a href="https://github.com/eriklindernoren/Keras-GAN/blob/master/srgan/srgan.py"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">超分辨率 GAN</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用生成对抗网络实现</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">照片级真实感单图像超分辨率</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></td>
 <td align="center"><code>Keras</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/eriklindernoren/Keras-GAN/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/eriklindernoren/Keras-GAN/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 </tbody>
 </table>
 <div align="right" dir="auto">
-    <b></b><b><a href="#framework">↥ Back To Top</a></b>
+    <b></b><b><a href="#framework"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">↥ 返回顶部</font></font></a></b>
 </div>
 <hr>
-<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">PyTorch <a name="user-content-pytorch"></a></h3><a id="user-content-pytorch-" class="anchor-element" aria-label="永久链接：PyTorch" href="#pytorch-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">火炬</font></font><a name="user-content-pytorch"></a></h3><a id="user-content-pytorch-" class="anchor-element" aria-label="永久链接：PyTorch" href="#pytorch-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <table>
 <thead>
 <tr>
-<th align="center">Model Name</th>
-<th align="center">Description</th>
-<th align="center">Framework</th>
-<th align="center">License</th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">型号名称</font></font></th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">描述</font></font></th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">框架</font></font></th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><a href="https://github.com/facebookresearch/detectron2">detectron2</a></td>
-<td align="center">Detectron2 is Facebook AI Research's next generation software system that implements state-of-the-art object detection algorithms</td>
+<td align="center"><a href="https://github.com/facebookresearch/detectron2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">探测器2</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Detectron2 是 Facebook AI Research 的下一代软件系统，可实现最先进的对象检测算法</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/facebookresearch/detectron2/master/LICENSE" rel="nofollow">Apache License 2.0</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/facebookresearch/detectron2/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇许可证 2.0</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/NVIDIA/FastPhotoStyle">FastPhotoStyle</a></td>
-<td align="center">A Closed-form Solution to Photorealistic Image Stylization.</td>
+<td align="center"><a href="https://github.com/NVIDIA/FastPhotoStyle"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速照片风格</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">真实感图像风格化的封闭式解决方案。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/NVIDIA/FastPhotoStyle/master/LICENSE.md" rel="nofollow">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public Licens</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/NVIDIA/FastPhotoStyle/master/LICENSE.md" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">知识共享署名-非商业性-相同方式共享 4.0 国际公共许可</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix">pytorch-CycleGAN-and-pix2pix</a></td>
-<td align="center">A Closed-form Solution to Photorealistic Image Stylization.</td>
+<td align="center"><a href="https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pytorch-CycleGAN-和-pix2pix</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">真实感图像风格化的封闭式解决方案。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/junyanz/pytorch-CycleGAN-and-pix2pix/master/LICENSE" rel="nofollow">BSD License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/junyanz/pytorch-CycleGAN-and-pix2pix/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BSD 许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/facebookresearch/maskrcnn-benchmark">maskrcnn-benchmark</a></td>
-<td align="center">Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.</td>
+<td align="center"><a href="https://github.com/facebookresearch/maskrcnn-benchmark"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">maskrcnn-基准</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PyTorch 中实例分割和对象检测算法的快速、模块化参考实现。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/facebookresearch/maskrcnn-benchmark/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/facebookresearch/maskrcnn-benchmark/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/DmitryUlyanov/deep-image-prior">deep-image-prior</a></td>
-<td align="center">Image restoration with neural networks but without learning.</td>
+<td align="center"><a href="https://github.com/DmitryUlyanov/deep-image-prior"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度图像先验</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用神经网络恢复图像但不进行学习。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/DmitryUlyanov/deep-image-prior/master/LICENSE" rel="nofollow">Apache License 2.0</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/DmitryUlyanov/deep-image-prior/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇许可证 2.0</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/yunjey/StarGAN">StarGAN</a></td>
-<td align="center">StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation.</td>
+<td align="center"><a href="https://github.com/yunjey/StarGAN"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">星GAN</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">StarGAN：用于多域图像到图像转换的统一生成对抗网络。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/yunjey/StarGAN/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/yunjey/StarGAN/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/jwyang/faster-rcnn.pytorch">faster-rcnn.pytorch</a></td>
-<td align="center">This project is a faster faster R-CNN implementation, aimed to accelerating the training of faster R-CNN object detection models.</td>
+<td align="center"><a href="https://github.com/jwyang/faster-rcnn.pytorch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更快的rcnn.pytorch</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该项目是更快的 R-CNN 实现，旨在加速更快的 R-CNN 目标检测模型的训练。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/jwyang/faster-rcnn.pytorch/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/jwyang/faster-rcnn.pytorch/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/NVIDIA/pix2pixHD">pix2pixHD</a></td>
-<td align="center">Synthesizing and manipulating 2048x1024 images with conditional GANs.</td>
+<td align="center"><a href="https://github.com/NVIDIA/pix2pixHD"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">像素2像素高清</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用条件 GAN 合成和操作 2048x1024 图像。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/NVIDIA/pix2pixHD/master/LICENSE.txt" rel="nofollow">BSD License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/NVIDIA/pix2pixHD/master/LICENSE.txt" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BSD 许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mdbloice/Augmentor">Augmentor</a></td>
-<td align="center">Image augmentation library in Python for machine learning.</td>
+<td align="center"><a href="https://github.com/mdbloice/Augmentor"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">增强器</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于机器学习的 Python 图像增强库。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/mdbloice/Augmentor/master/LICENSE.md" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/mdbloice/Augmentor/master/LICENSE.md" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/albumentations-team/albumentations">albumentations</a></td>
-<td align="center">Fast image augmentation library.</td>
+<td align="center"><a href="https://github.com/albumentations-team/albumentations"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">蛋白表达</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速图像增强库。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/albumentations-team/albumentations/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/albumentations-team/albumentations/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/AKSHAYUBHAT/DeepVideoAnalytics">Deep Video Analytics</a></td>
-<td align="center">Deep Video Analytics is a platform for indexing and extracting information from videos and images</td>
+<td align="center"><a href="https://github.com/AKSHAYUBHAT/DeepVideoAnalytics"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度视频分析</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度视频分析是一个用于从视频和图像中索引和提取信息的平台</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/AKSHAYUBHAT/DeepVideoAnalytics/master/LICENSE" rel="nofollow">Custom</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/AKSHAYUBHAT/DeepVideoAnalytics/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">风俗</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/CSAILVision/semantic-segmentation-pytorch">semantic-segmentation-pytorch</a></td>
-<td align="center">Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset.</td>
+<td align="center"><a href="https://github.com/CSAILVision/semantic-segmentation-pytorch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">语义分割-pytorch</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pytorch 在 MIT ADE20K 数据集上实现语义分割/场景解析。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/CSAILVision/semantic-segmentation-pytorch/master/LICENSE" rel="nofollow">BSD 3-Clause License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/CSAILVision/semantic-segmentation-pytorch/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BSD 3 条款许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/bgshih/crnn">An End-to-End Trainable Neural Network for Image-based Sequence Recognition</a></td>
-<td align="center">This software implements the Convolutional Recurrent Neural Network (CRNN), a combination of CNN, RNN and CTC loss for image-based sequence recognition tasks, such as scene text recognition and OCR.</td>
+<td align="center"><a href="https://github.com/bgshih/crnn"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于基于图像的序列识别的端到端可训练神经网络</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该软件实现了卷积循环神经网络 (CRNN)，它是 CNN、RNN 和 CTC 损失的组合，适用于基于图像的序列识别任务，例如场景文本识别和 OCR。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/bgshih/crnn/master/LICENSE" rel="nofollow">The MIT License (MIT)</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/bgshih/crnn/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证 (MIT)</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mingyuliutw/UNIT">UNIT</a></td>
-<td align="center">PyTorch Implementation of our Coupled VAE-GAN algorithm for Unsupervised Image-to-Image Translation.</td>
+<td align="center"><a href="https://github.com/mingyuliutw/UNIT"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">单元</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于无监督图像到图像转换的耦合 VAE-GAN 算法的 PyTorch 实现。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/mingyuliutw/UNIT/master/LICENSE.md" rel="nofollow">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/mingyuliutw/UNIT/master/LICENSE.md" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">知识共享署名-非商业性-相同方式共享 4.0 国际公共许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/jiesutd/NCRFpp">Neural Sequence labeling model</a></td>
-<td align="center">Sequence labeling models are quite popular in many NLP tasks, such as Named Entity Recognition (NER), part-of-speech (POS) tagging and word segmentation.</td>
+<td align="center"><a href="https://github.com/jiesutd/NCRFpp"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">神经序列标记模型</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">序列标记模型在许多 NLP 任务中非常流行，例如命名实体识别 (NER)、词性 (POS) 标记和分词。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/jiesutd/NCRFpp/master/LICENCE" rel="nofollow">Apache License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/jiesutd/NCRFpp/master/LICENCE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/longcw/faster_rcnn_pytorch">faster rcnn</a></td>
-<td align="center">This is a PyTorch implementation of Faster RCNN. This project is mainly based on py-faster-rcnn and TFFRCNN. For details about R-CNN please refer to the paper Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks by Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun.</td>
+<td align="center"><a href="https://github.com/longcw/faster_rcnn_pytorch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更快的循环神经网络</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是 Faster RCNN 的 PyTorch 实现。</font><font style="vertical-align: inherit;">该项目主要基于py-faster-rcnn和TFFRCNN。</font><font style="vertical-align: inherit;">有关 R-CNN 的详细信息，请参阅 Shaoqing Ren、Kaiming He、Ross Girshick、Jian Sun 的论文 Faster R-CNN: Towards Real-Time ObjectDetection with Region Proposal Networks。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/longcw/faster_rcnn_pytorch/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/longcw/faster_rcnn_pytorch/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/ZijunDeng/pytorch-semantic-segmentation">pytorch-semantic-segmentation</a></td>
-<td align="center">PyTorch for Semantic Segmentation.</td>
+<td align="center"><a href="https://github.com/ZijunDeng/pytorch-semantic-segmentation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pytorch 语义分割</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于语义分割的 PyTorch。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/ZijunDeng/pytorch-semantic-segmentation/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/ZijunDeng/pytorch-semantic-segmentation/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/thstkdgus35/EDSR-PyTorch">EDSR-PyTorch</a></td>
-<td align="center">PyTorch version of the paper 'Enhanced Deep Residual Networks for Single Image Super-Resolution'.</td>
+<td align="center"><a href="https://github.com/thstkdgus35/EDSR-PyTorch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EDSR-PyTorch</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">论文“Enhanced Deep Residual Networks for Single Image Super-Resolution”的 PyTorch 版本。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/thstkdgus35/EDSR-PyTorch/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/thstkdgus35/EDSR-PyTorch/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/osmr/imgclsmob">image-classification-mobile</a></td>
-<td align="center">Collection of classification models pretrained on the ImageNet-1K.</td>
+<td align="center"><a href="https://github.com/osmr/imgclsmob"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图像分类移动</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 ImageNet-1K 上预训练的分类模型集合。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/osmr/imgclsmob/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/osmr/imgclsmob/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/facebookresearch/FaderNetworks">FaderNetworks</a></td>
-<td align="center">Fader Networks: Manipulating Images by Sliding Attributes - NIPS 2017.</td>
+<td align="center"><a href="https://github.com/facebookresearch/FaderNetworks"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">推子网络公司</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fader Networks：通过滑动属性操作图像 - NIPS 2017。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/facebookresearch/FaderNetworks/master/LICENSE" rel="nofollow">Creative Commons Attribution-NonCommercial 4.0 International Public License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/facebookresearch/FaderNetworks/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">知识共享署名-非商业4.0国际公共许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/ruotianluo/ImageCaptioning.pytorch">neuraltalk2-pytorch</a></td>
-<td align="center">Image captioning model in pytorch (finetunable cnn in branch with_finetune).</td>
+<td align="center"><a href="https://github.com/ruotianluo/ImageCaptioning.pytorch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Neurotalk2-pytorch</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pytorch 中的图像字幕模型（with_finetune 分支中的可微调 cnn）。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/ruotianluo/ImageCaptioning.pytorch/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/ruotianluo/ImageCaptioning.pytorch/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/seungwonpark/RandWireNN">RandWireNN</a></td>
-<td align="center">Implementation of: "Exploring Randomly Wired Neural Networks for Image Recognition".</td>
+<td align="center"><a href="https://github.com/seungwonpark/RandWireNN"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">兰德线神经网络</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实施：“探索用于图像识别的随机连线神经网络”。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center">Not Found</td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">未找到</font></font></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/hanzhanggit/StackGAN-v2">stackGAN-v2</a></td>
-<td align="center">Pytorch implementation for reproducing StackGAN_v2 results in the paper StackGAN++.</td>
+<td align="center"><a href="https://github.com/hanzhanggit/StackGAN-v2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">堆栈GAN-v2</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于在 StackGAN++ 论文中重现 StackGAN_v2 结果的 Pytorch 实现。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/hanzhanggit/StackGAN-v2/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/hanzhanggit/StackGAN-v2/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/ignacio-rocco/detectorch">Detectron models for Object Detection</a></td>
-<td align="center">This code allows to use some of the Detectron models for object detection from Facebook AI Research with PyTorch.</td>
+<td align="center"><a href="https://github.com/ignacio-rocco/detectorch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于物体检测的 Detectron 模型</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此代码允许使用 Facebook AI Research 的一些 Detectron 模型与 PyTorch 进行对象检测。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/ignacio-rocco/detectorch/master/LICENSE" rel="nofollow">Apache License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/ignacio-rocco/detectorch/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/scaelles/DEXTR-PyTorch">DEXTR-PyTorch</a></td>
-<td align="center">This paper explores the use of extreme points in an object (left-most, right-most, top, bottom pixels) as input to obtain precise object segmentation for images and videos.</td>
+<td align="center"><a href="https://github.com/scaelles/DEXTR-PyTorch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DEXTR-PyTorch</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本文探索使用对象中的极值点（最左、最右、顶部、底部像素）作为输入来获得图像和视频的精确对象分割。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/scaelles/DEXTR-PyTorch/master/LICENSE" rel="nofollow">GNU GENERAL PUBLIC LICENSE</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/scaelles/DEXTR-PyTorch/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GNU 通用公共许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fxia22/pointnet.pytorch">pointnet.pytorch</a></td>
-<td align="center">Pytorch implementation for "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation.</td>
+<td align="center"><a href="https://github.com/fxia22/pointnet.pytorch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">点网.pytorch</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“PointNet：用于 3D 分类和分割的点集深度学习”的 Pytorch 实现。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/fxia22/pointnet.pytorch/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/fxia22/pointnet.pytorch/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/ruotianluo/self-critical.pytorch">self-critical.pytorch</a></td>
-<td align="center">This repository includes the unofficial implementation Self-critical Sequence Training for Image Captioning and Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering.</td>
+<td align="center"><a href="https://github.com/ruotianluo/self-critical.pytorch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自我批评.pytorch</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该存储库包括图像字幕的非官方实施自我批评序列训练以及图像字幕和视觉问答的自下而上和自上而下的注意。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/ruotianluo/self-critical.pytorch/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/ruotianluo/self-critical.pytorch/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mattmacy/vnet.pytorch">vnet.pytorch</a></td>
-<td align="center">A Pytorch implementation for V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation.</td>
+<td align="center"><a href="https://github.com/mattmacy/vnet.pytorch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">vnet.pytorch</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">V-Net 的 Pytorch 实现：用于体积医学图像分割的全卷积神经网络。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/mattmacy/vnet.pytorch/master/LICENSE" rel="nofollow">BSD 3-Clause License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/mattmacy/vnet.pytorch/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BSD 3 条款许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/bodokaiser/piwise">piwise</a></td>
-<td align="center">Pixel-wise segmentation on VOC2012 dataset using pytorch.</td>
+<td align="center"><a href="https://github.com/bodokaiser/piwise"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">皮威斯</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 pytorch 对 VOC2012 数据集进行像素级分割。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/bodokaiser/piwise/master/LICENSE.md" rel="nofollow">BSD 3-Clause License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/bodokaiser/piwise/master/LICENSE.md" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BSD 3 条款许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/Lextal/pspnet-pytorch">pspnet-pytorch</a></td>
-<td align="center">PyTorch implementation of PSPNet segmentation network.</td>
+<td align="center"><a href="https://github.com/Lextal/pspnet-pytorch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pspnet-pytorch</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PSPNet 分割网络的 PyTorch 实现。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center">Not Found</td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">未找到</font></font></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/twtygqyy/pytorch-SRResNet">pytorch-SRResNet</a></td>
-<td align="center">Pytorch implementation for Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.</td>
+<td align="center"><a href="https://github.com/twtygqyy/pytorch-SRResNet"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pytorch-SRResNet</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用生成对抗网络实现照片级真实单图像超分辨率的 Pytorch 实现。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/twtygqyy/pytorch-SRResNet/master/LICENSE" rel="nofollow">The MIT License (MIT)</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/twtygqyy/pytorch-SRResNet/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证 (MIT)</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/chenxi116/PNASNet.pytorch">PNASNet.pytorch</a></td>
-<td align="center">PyTorch implementation of PNASNet-5 on ImageNet.</td>
+<td align="center"><a href="https://github.com/chenxi116/PNASNet.pytorch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PNASNet.pytorch</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PNASNet-5 在 ImageNet 上的 PyTorch 实现。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/chenxi116/PNASNet.pytorch/master/LICENSE" rel="nofollow">Apache License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/chenxi116/PNASNet.pytorch/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/felixgwu/img_classification_pk_pytorch">img_classification_pk_pytorch</a></td>
-<td align="center">Quickly comparing your image classification models with the state-of-the-art models.</td>
+<td align="center"><a href="https://github.com/felixgwu/img_classification_pk_pytorch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">img_classification_pk_pytorch</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速将您的图像分类模型与最先进的模型进行比较。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center">Not Found</td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">未找到</font></font></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks">Deep Neural Networks are Easily Fooled</a></td>
-<td align="center">High Confidence Predictions for Unrecognizable Images.</td>
+<td align="center"><a href="https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度神经网络很容易被愚弄</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对无法识别的图像进行高置信度预测。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/utkuozbulak/pytorch-cnn-adversarial-attacks/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/utkuozbulak/pytorch-cnn-adversarial-attacks/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mrzhu-cool/pix2pix-pytorch">pix2pix-pytorch</a></td>
-<td align="center">PyTorch implementation of "Image-to-Image Translation Using Conditional Adversarial Networks".</td>
+<td align="center"><a href="https://github.com/mrzhu-cool/pix2pix-pytorch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pix2pix-pytorch</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“使用条件对抗网络的图像到图像转换”的 PyTorch 实现。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center">Not Found</td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">未找到</font></font></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/NVIDIA/semantic-segmentation">NVIDIA/semantic-segmentation</a></td>
-<td align="center">A PyTorch Implementation of Improving Semantic Segmentation via Video Propagation and Label Relaxation, In CVPR2019.</td>
+<td align="center"><a href="https://github.com/NVIDIA/semantic-segmentation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NVIDIA/语义分割</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过视频传播和标签松弛改进语义分割的 PyTorch 实现，CVPR2019。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/NVIDIA/semantic-segmentation/master/LICENSE" rel="nofollow">CC BY-NC-SA 4.0 license</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/NVIDIA/semantic-segmentation/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CC BY-NC-SA 4.0 许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/kentsyx/Neural-IMage-Assessment">Neural-IMage-Assessment</a></td>
-<td align="center">A PyTorch Implementation of Neural IMage Assessment.</td>
+<td align="center"><a href="https://github.com/kentsyx/Neural-IMage-Assessment"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">神经图像评估</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">神经图像评估的 PyTorch 实现。</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center">Not Found</td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">未找到</font></font></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mlmed/torchxrayvision">torchxrayvision</a></td>
-<td align="center">Pretrained models for chest X-ray (CXR) pathology predictions. Medical, Healthcare, Radiology</td>
+<td align="center"><a href="https://github.com/mlmed/torchxrayvision"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">炬X射线视觉</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于胸部 X 射线 (CXR) 病理学预测的预训练模型。</font><font style="vertical-align: inherit;">医疗、保健、放射学</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/mlmed/torchxrayvision/master/LICENSE" rel="nofollow">Apache License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/mlmed/torchxrayvision/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/rwightman/pytorch-image-models">pytorch-image-models</a></td>
-<td align="center">PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2, MNASNet, Single-Path NAS, FBNet, and more</td>
+<td align="center"><a href="https://github.com/rwightman/pytorch-image-models"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pytorch-图像模型</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PyTorch 图像模型、脚本、预训练权重 - (SE)ResNet/ResNeXT、DPN、EfficientNet、MixNet、MobileNet-V3/V2、MNASNet、Single-Path NAS、FBNet 等</font></font></td>
 <td align="center"><code>PyTorch</code></td>
-<td align="center"><a href="https://github.com/rwightman/pytorch-image-models/blob/master/LICENSE">Apache License 2.0</a></td>
+<td align="center"><a href="https://github.com/rwightman/pytorch-image-models/blob/master/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇许可证 2.0</font></font></a></td>
 </tr>
 </tbody>
 </table>
 <div align="right" dir="auto">
-    <b></b><b><a href="#framework">↥ Back To Top</a></b>
+    <b></b><b><a href="#framework"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">↥ 返回顶部</font></font></a></b>
 </div>
 <hr>
-<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Caffe <a name="user-content-caffe"></a></h3><a id="user-content-caffe-" class="anchor-element" aria-label="永久链接：咖啡厅" href="#caffe-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">咖啡</font></font><a name="user-content-caffe"></a></h3><a id="user-content-caffe-" class="anchor-element" aria-label="永久链接：咖啡厅" href="#caffe-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <table>
 <thead>
 <tr>
-<th align="center">Model Name</th>
-<th align="center">Description</th>
-<th align="center">Framework</th>
-<th align="center">License</th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">型号名称</font></font></th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">描述</font></font></th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">框架</font></font></th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><a href="https://github.com/CMU-Perceptual-Computing-Lab/openpose">OpenPose</a></td>
-<td align="center">OpenPose represents the first real-time multi-person system to jointly detect human body, hand, and facial keypoints (in total 130 keypoints) on single images.</td>
+<td align="center"><a href="https://github.com/CMU-Perceptual-Computing-Lab/openpose"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开放姿势</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenPose 是第一个在单张图像上联合检测人体、手部和面部关键点（总共 130 个关键点）的实时多人系统。</font></font></td>
 <td align="center"><code>Caffe</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/CMU-Perceptual-Computing-Lab/openpose/master/LICENSE" rel="nofollow">Custom</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/CMU-Perceptual-Computing-Lab/openpose/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">风俗</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/shelhamer/fcn.berkeleyvision.org">Fully Convolutional Networks for Semantic Segmentation</a></td>
-<td align="center">Fully Convolutional Models for Semantic Segmentation.</td>
+<td align="center"><a href="https://github.com/shelhamer/fcn.berkeleyvision.org"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于语义分割的全卷积网络</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于语义分割的全卷积模型。</font></font></td>
 <td align="center"><code>Caffe</code></td>
-<td align="center">Not Found</td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">未找到</font></font></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/richzhang/colorization">Colorful Image Colorization</a></td>
-<td align="center">Colorful Image Colorization.</td>
+<td align="center"><a href="https://github.com/richzhang/colorization"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">彩色图像着色</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">彩色图像着色。</font></font></td>
 <td align="center"><code>Caffe</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/richzhang/colorization/master/LICENSE" rel="nofollow">BSD-2-Clause License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/richzhang/colorization/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BSD-2 条款许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/YuwenXiong/py-R-FCN">R-FCN</a></td>
-<td align="center">R-FCN: Object Detection via Region-based Fully Convolutional Networks.</td>
+<td align="center"><a href="https://github.com/YuwenXiong/py-R-FCN"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">R-FCN</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">R-FCN：通过基于区域的全卷积网络进行对象检测。</font></font></td>
 <td align="center"><code>Caffe</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/YuwenXiong/py-R-FCN/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/YuwenXiong/py-R-FCN/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/jcjohnson/cnn-vis">cnn-vis</a></td>
-<td align="center">Inspired by Google's recent Inceptionism blog post, cnn-vis is an open-source tool that lets you use convolutional neural networks to generate images.</td>
+<td align="center"><a href="https://github.com/jcjohnson/cnn-vis"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">美国有线电视新闻网</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">受 Google 最近的 Inceptionism 博客文章的启发，cnn-vis 是一款开源工具，可让您使用卷积神经网络生成图像。</font></font></td>
 <td align="center"><code>Caffe</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/jcjohnson/cnn-vis/master/LICENSE" rel="nofollow">The MIT License (MIT)</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/jcjohnson/cnn-vis/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证 (MIT)</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/HyeonwooNoh/DeconvNet">DeconvNet</a></td>
-<td align="center">Learning Deconvolution Network for Semantic Segmentation.</td>
+<td align="center"><a href="https://github.com/HyeonwooNoh/DeconvNet"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">反卷积网络</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习用于语义分割的反卷积网络。</font></font></td>
 <td align="center"><code>Caffe</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/HyeonwooNoh/DeconvNet/master/LICENSE" rel="nofollow">Custom</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/HyeonwooNoh/DeconvNet/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">风俗</font></font></a></td>
 </tr>
 </tbody>
 </table>
 <div align="right" dir="auto">
-    <b></b><b><a href="#framework">↥ Back To Top</a></b>
+    <b></b><b><a href="#framework"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">↥ 返回顶部</font></font></a></b>
 </div>
 <hr>
-<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">MXNet <a name="user-content-mxnet"></a></h3><a id="user-content-mxnet-" class="anchor-element" aria-label="永久链接：MXNet" href="#mxnet-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MXNet</font></font><a name="user-content-mxnet"></a></h3><a id="user-content-mxnet-" class="anchor-element" aria-label="永久链接：MXNet" href="#mxnet-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <table>
 <thead>
 <tr>
-<th align="center">Model Name</th>
-<th align="center">Description</th>
-<th align="center">Framework</th>
-<th align="center">License</th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">型号名称</font></font></th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">描述</font></font></th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">框架</font></font></th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><a href="https://github.com/ijkguo/mx-rcnn">Faster RCNN</a></td>
-<td align="center">Region Proposal Network solves object detection as a regression problem.</td>
+<td align="center"><a href="https://github.com/ijkguo/mx-rcnn"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更快的 RCNN</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">区域提议网络将对象检测作为回归问题来解决。</font></font></td>
 <td align="center"><code>MXNet</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/ijkguo/mx-rcnn/master/LICENSE" rel="nofollow">Apache License, Version 2.0</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/ijkguo/mx-rcnn/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apache 许可证，版本 2.0</font></font></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/zhreshold/mxnet-ssd">SSD</a></td>
-<td align="center">SSD is an unified framework for object detection with a single network.</td>
+<td align="center"><a href="https://github.com/zhreshold/mxnet-ssd"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">固态硬盘</font></font></a></td>
+<td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SSD 是使用单个网络进行对象检测的统一框架。</font></font></td>
 <td align="center"><code>MXNet</code></td>
-<td align="center"><a href="https://raw.githubusercontent.com/zhreshold/mxnet-ssd/master/LICENSE" rel="nofollow">MIT License</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/zhreshold/mxnet-ssd/master/LICENSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院许可证</font></font></a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/unsky/focal-loss"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更快的 RCNN+Focal Loss</font></font></a></td>
